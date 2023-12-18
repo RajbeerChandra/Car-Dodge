@@ -33,4 +33,6 @@ Have a look
 
 
 On loosing all the lives, GAME OVER!!
-![game_over](screenshot/srnshot_over.png)
+
+
+<img width="482" alt="Screenshot 2023-12-18 135637" src="https://github.com/RajbeerChandra/Car-Dodge/assets/100615997/950d9bb5-0a60-4116-b901-ccebf117c6ba">
