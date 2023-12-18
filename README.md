@@ -27,7 +27,7 @@ Finally, to run the game :
 If everything works fine, you will see the game working.
 
 Have a look
-![executable](screenshot/Screenshot%20from%202020-02-04%2023-04-47.png)
+<img width="541" alt="Screenshot 2023-12-18 135617" src="https://github.com/RajbeerChandra/Car-Dodge/assets/100615997/aa7376ee-7440-4c68-aaa3-01a1c640ba22">
 
 
 On loosing all the lives, GAME OVER!!
